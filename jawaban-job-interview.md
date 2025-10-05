@@ -659,40 +659,40 @@ classDiagram
 
 1. Menu Utama 
 
-    ![Dokumentasi UX](Dokumentasi UX/Menu_Utama.png)
+    ![Dokumentasi UX](Dokumentasi_UX/Menu_Utama.png)
 
 2. Menu Registrasi
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Registrasi.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Registrasi.png)
 
 3. Menu Login
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Login.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Login.png)
 
 4. Menu Buat Email
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Buat_Email_Baru.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Buat_Email_Baru.png)
 
 5. Menu Kotak Masuk
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Kotak_Masuk.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Kotak_Masuk.png)
 
 6. Menu Terkirim
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Terkirim.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Terkirim.png)
 
 7. Menu Draf
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Draf.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Draf.png)
 
 8. Menu Cari Email
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Cari_Email.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Cari_Email.png)
 
 9. Menu Logout
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Logout.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Logout.png)
 
 10. Menu Keluar
 
-    ![Dokumentasi](Dokumentasi UX/Menu_Keluar.png)
+    ![Dokumentasi](Dokumentasi_UX/Menu_Keluar.png)
